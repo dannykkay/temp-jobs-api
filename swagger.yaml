@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://temp-jobs-api-1-i2ch.onrender.com
+  - url: https://temp-jobs-api-1-i2ch.onrender.com/api/v1
     variables: {}
 paths:
   /auth/register:
