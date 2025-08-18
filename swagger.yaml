@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://jobs-api-06.herokuapp.com/api/v1
+  - url: https://temp-jobs-api-1-i2ch.onrender.com
     variables: {}
 paths:
   /auth/register:
