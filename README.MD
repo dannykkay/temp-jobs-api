@@ -1,6 +1,6 @@
 # Jobs API
 
-A RESTful API for managing job listings,built with Node.js, Express, and MongoDB. Supports user authentication via JWT and full CRUD operations on job entries.
+A RESTful API for managing job listings, built with Node.js, Express, and MongoDB. Supports user authentication via JWT and full CRUD operations on job entries.
 
 ---
 
